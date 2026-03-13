@@ -2,3 +2,10 @@ numpy
 pandas
 jupyter
 kagglehub
+streamlit
+sqlalchemy
+psycopg2-binary
+plotly
+folium
+streamlit-folium
+h3

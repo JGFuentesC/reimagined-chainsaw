@@ -1,8 +1,11 @@
 **/__pycache__
 *.env
+.env
+olap/.env
 *.csv
 *.json
 *.pkl
 *.parquet
 **/.venv
 **/*.log
+**/.DS_Store
